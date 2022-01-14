@@ -17,9 +17,7 @@ function Portfolio() {
             <h1 data-cy="pageTitle" className="title">
               Portfolio
             </h1>
-            <p className="description">
-              Incididunt in cillum magna occaecat nisi qui in.
-            </p>
+            <p className="description">Check out my Portfolio</p>
 
             <div className="portfolio-wrapper">
               <div className="portfolio-item">
@@ -31,7 +29,7 @@ function Portfolio() {
               <div className="portfolio-item">
                 <img src="/kajian.jpg" className="portfolio-image" />
 
-                <h4 className="portfolio-name">kajian App</h4>
+                <h4 className="portfolio-name">Amir App</h4>
                 <div className="portfolio-category">Mobile Dev</div>
               </div>
             </div>
