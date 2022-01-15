@@ -21,13 +21,21 @@ function Portfolio() {
 
             <div className="portfolio-wrapper">
               <div className="portfolio-item">
-                <img src="/chitchat.png" className="portfolio-image" />
+                <img
+                  src="/chitchat.png"
+                  className="portfolio-image"
+                  alt="chitchat"
+                />
 
                 <h4 className="portfolio-name">Chat App Exploration</h4>
                 <div className="portfolio-category">Mobile Dev</div>
               </div>
               <div className="portfolio-item">
-                <img src="/kajian.jpg" className="portfolio-image" />
+                <img
+                  src="/kajian.jpg"
+                  className="portfolio-image"
+                  alt="/kajian.jpg"
+                />
 
                 <h4 className="portfolio-name">Amir App</h4>
                 <div className="portfolio-category">Mobile Dev</div>
